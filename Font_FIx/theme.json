@@ -620,7 +620,7 @@
         "monitor_progress_bar": [16.5, 1.0],
         "monitor_margin": [1.5, 1.5],
 
-        "table_row": [2.0, 2.00],
+        "table_row": [2.0, 2.0],
 
         "welcome_wizard_content_image_big": [18, 15],
         "welcome_wizard_cloud_content_image": [4, 4]
